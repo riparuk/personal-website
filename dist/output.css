@@ -4319,10 +4319,9 @@ p {
   display: block;
   width: 100%;
   height: 500px;
-  background-image: url("https://uploads-ssl.webflow.com/55ce74221f74ecaa28644c33/59c1dd487333f20001b08cc0_Perspective-3.png"),linear-gradient(53deg,#c7e3e9,#ecf4ec);
-  background-position: 141% 0,0 0;
-  background-size: 80%,auto;
-  background-repeat: no-repeat,repeat;
+  /* background-position: 100% 0,0 0; */
+  background-size: cover;
+  background-repeat: no-repeat;
   box-shadow: inset 0 0 0 1px #fff;
   transition: box-shadow .3s;
   cursor: pointer
@@ -4354,9 +4353,9 @@ p {
 .landing-link-ub {
   width: 100%;
   height: 550px;
-  background-image: url("https://uploads-ssl.webflow.com/55ce74221f74ecaa28644c33/59010a754afca47d01ec4be6_ub.png");
   background-position: 0 0;
-  background-size: 512px;
+  background-size: cover;
+  background-repeat: no-repeat;
   box-shadow: inset 0 0 0 1px #fff;
   transition: box-shadow .3s;
   cursor: pointer
@@ -4369,8 +4368,7 @@ p {
 .landing-link-ga-se {
   width: 100%;
   height: 550px;
-  background-image: url("https://uploads-ssl.webflow.com/55ce74221f74ecaa28644c33/59fc8ed0519f780001a1ab89_jj-thompson-142854.jpg");
-  background-position: 0 50%;
+  background-position: 0 0;
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: inset 0 0 0 1px #fff;
@@ -4386,12 +4384,9 @@ p {
   display: block;
   width: 100%;
   height: 550px;
-  margin-right: auto;
-  margin-left: auto;
-  background-image: url("https://uploads-ssl.webflow.com/55ce74221f74ecaa28644c33/58a18f5b939b3ae4754a9f08_7-ga-sql.png"),linear-gradient(134deg,#fcba7c,#ffef9b);
-  background-position: 50% 50%,0 0;
-  background-size: 60%,auto;
-  background-repeat: no-repeat,repeat;
+  background-position: 0 0;
+  background-size: cover;
+  background-repeat: no-repeat;
   box-shadow: inset 0 0 0 1px #fff;
   transition: box-shadow .3s;
   cursor: pointer
@@ -4405,12 +4400,8 @@ p {
   display: block;
   width: 100%;
   height: 550px;
-  margin-right: auto;
-  margin-left: auto;
-  background-color: #d8d8d2;
-  background-image: url("https://uploads-ssl.webflow.com/55ce74221f74ecaa28644c33/59fc91bd463ca50001a83e76_drift-poster-squared.png");
-  background-position: 50% 50%;
-  background-size: 120%;
+  background-position: 0 0;
+  background-size: cover;
   background-repeat: no-repeat;
   box-shadow: inset 0 0 0 1px #fff;
   transition: box-shadow .3s;
@@ -5628,10 +5619,9 @@ p {
 .landing-link-espi {
   width: 100%;
   height: 550px;
-  background-image: url("https://uploads-ssl.webflow.com/55ce74221f74ecaa28644c33/59fc8960519f780001a1a592_Isometric-Perspective-Mock-Up.png"),linear-gradient(180deg,#e57066,#e57066);
-  background-position: 50% 50%,0 0;
-  background-size: 80%,auto;
-  background-repeat: no-repeat,repeat;
+  /* background-position: 50% 50%,0 0; */
+  background-size: cover;
+  background-repeat: no-repeat;
   box-shadow: inset 0 0 0 1px #fff;
   transition: box-shadow .3s;
   cursor: pointer
